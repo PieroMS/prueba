@@ -1,4 +1,4 @@
-# PMini E-commerce - Ropa
+# Mini E-commerce - Ropa
 Este proyecto es una **app básica de e-commerce** enfocada en ropa. Solo incluye dos vistas principales:
 
 - 🏠 **Inicio**: una maqueta visual de la tienda con productos simulados.
